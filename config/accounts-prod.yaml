@@ -1,3 +1,6 @@
+server:
+  port: 9008
+
 accounts:
   msg: Welcome to the EazyBank Accounts Prod application
   build-version: 1
